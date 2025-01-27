@@ -1,0 +1,22 @@
+<json> ::= <value>
+<value> ::= <bool>|<null>|<number>|<string>|<array>|<object>
+<values> ::= <value> | <value>,<values>
+<S_values> ::= <string>:<value> | <string>:<value>, <S_values>
+
+<object> ::= {<S_values>}|{}
+
+<array> ::= [<values>]|[]
+
+<number> ::= -<int>|<int>|-<int>.<digs>|<int>.<digs>
+<int> ::= <dig>|<lead_dig><digs>
+<dig> ::= 0-9
+<lead_dig> ::= 1-9
+<digs> ::= <dig> | <dig><digs>
+
+<string> ::= "<text>"
+<text> ::= <symbol>|<symbol><text>
+<symbol> ::= [^\"] #re
+
+<null> ::= null
+
+<bool> ::= true|false
