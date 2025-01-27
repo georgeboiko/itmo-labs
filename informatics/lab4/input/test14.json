@@ -1,0 +1,82 @@
+{
+    "company": {
+      "name": "Tech Innovations",
+      "employees": [
+        {
+          "id": 1,
+          "name": "Alice",
+          "position": "Developer",
+          "projects": [
+            {
+              "title": "AI Research",
+              "duration": "6 months",
+              "technologies": ["Python", "TensorFlow"],
+              "team": [
+                {"name": "Bob", "role": "Data Scientist"},
+                {"name": "Charlie", "role": "Product Manager"}
+              ]
+            },
+            {
+              "title": "Web Development",
+              "duration": "3 months",
+              "technologies": ["JavaScript", "React"]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Bob",
+          "position": "Data Scientist",
+          "projects": [
+            {
+              "title": "AI Research",
+              "duration": "6 months",
+              "technologies": ["Python", "TensorFlow"],
+              "subProjects": {
+                "dataCollection": {
+                  "status": "completed",
+                  "methods": ["surveys", "web scraping"]
+                },
+                "modelTraining": {
+                  "status": "in progress",
+                  "algorithms": ["Random Forest", "Neural Networks"]
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "departments": {
+        "R&D": {
+          "budget": 200000,
+          "teams": [
+            {
+              "name": "AI Team",
+              "members": [1, 2],
+              "goals": ["Enhance AI capabilities", "Reduce model training time"],
+              "metrics": {
+                "successRate": "85%",
+                "failureRate": "15%"
+              }
+            }
+          ]
+        },
+        "Marketing": {
+          "budget": 100000,
+          "campaigns": [
+            {
+              "name": "Tech Revolution",
+              "reach": {
+                "socialMedia": [1000, 2000, 3000],
+                "email": {"subscribers": 5000, "openRate": "30%"}
+              },
+              "kpis": [
+                {"metric": "leadConversion", "value": "20%"},
+                {"metric": "customerRetention", "value": "90%"}
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }

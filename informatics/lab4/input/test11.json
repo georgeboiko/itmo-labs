@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "id": 77777,
+            "name": "Item-1",
+            "attributes": {
+                "color": "yellow",
+                "size": "small",
+                "quantity": 82
+            },
+            "tags": ["decor", "sale"]
+        },
+        {
+            "id": 88888,
+            "name": "Item-2",
+            "attributes": {
+                "color": "purple",
+                "size": "medium",
+                "quantity": 12
+            },
+            "tags": ["decor", "new"]
+        },
+        {
+            "id": 99999,
+            "name": "Item-3",
+            "attributes": {
+                "color": "cyan",
+                "size": "large",
+                "quantity": 40
+            },
+            "tags": ["decor"]
+        }
+    ]
+}

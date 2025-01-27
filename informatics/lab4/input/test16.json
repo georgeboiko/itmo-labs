@@ -1,0 +1,139 @@
+{
+    "store": {
+      "name": "SuperMart",
+      "location": {
+        "address": "123 Market St",
+        "city": "Newtown",
+        "zipCode": "12345"
+      },
+      "departments": [
+        {
+          "name": "Groceries",
+          "products": [
+            {
+              "id": 101,
+              "name": "Bananas",
+              "price": 0.99,
+              "quantity": 150,
+              "ratings": [4.5, 4.7, 3.8, 4.1]
+            },
+            {
+              "id": 102,
+              "name": "Apples",
+              "price": 1.20,
+              "quantity": 100,
+              "ratings": [4.2, 4.3, 4.1]
+            }
+          ]
+        },
+        {
+          "name": "Electronics",
+          "products": [
+            {
+              "id": 201,
+              "name": "Smartphone",
+              "price": 299.99,
+              "quantity": 50,
+              "ratings": [4.6, 4.8, 4.9, 4.5]
+            },
+            {
+              "id": 202,
+              "name": "Laptop",
+              "price": 799.99,
+              "quantity": 30,
+              "ratings": [4.7, 4.6, 4.5]
+            },
+            {
+              "id": 203,
+              "name": "Headphones",
+              "price": 89.99,
+              "quantity": 75,
+              "ratings": [4.0, 4.1, 4.2, 4.3]
+            }
+          ]
+        },
+        {
+          "name": "Clothing",
+          "products": [
+            {
+              "id": 301,
+              "name": "Jeans",
+              "price": 39.99,
+              "quantity": 200,
+              "ratings": [4.5, 4.4, 4.3]
+            },
+            {
+              "id": 302,
+              "name": "T-Shirts",
+              "price": 19.99,
+              "quantity": 300,
+              "ratings": [4.2, 4.3, 4.1]
+            },
+            {
+              "id": 303,
+              "name": "Sneakers",
+              "price": 59.99,
+              "quantity": 50,
+              "ratings": [4.3, 4.2, 4.4]
+            }
+          ]
+        }
+      ],
+      "employees": [
+        {
+          "id": 1,
+          "name": "Alice",
+          "age": 30,
+          "department": "Groceries",
+          "salary": 32000,
+          "performanceScores": [88, 92, 85]
+        },
+        {
+          "id": 2,
+          "name": "Bob",
+          "age": 28,
+          "department": "Electronics",
+          "salary": 45000,
+          "performanceScores": [95, 91, 90]
+        },
+        {
+          "id": 3,
+          "name": "Charlie",
+          "age": 35,
+          "department": "Clothing",
+          "salary": 38000,
+          "performanceScores": [82, 88, 81]
+        }
+      ],
+      "sales": [
+        {
+          "date": "2023-10-01",
+          "totalAmount": 1500.55,
+          "itemsSold": [
+            {
+              "productId": 101,
+              "quantity": 100
+            },
+            {
+              "productId": 201,
+              "quantity": 30
+            }
+          ]
+        },
+        {
+          "date": "2023-10-02",
+          "totalAmount": 850.75,
+          "itemsSold": [
+            {
+              "productId": 102,
+              "quantity": 50
+            },
+            {
+              "productId": 301,
+              "quantity": 20
+            }
+          ]
+        }
+      ]
+    }
+  }

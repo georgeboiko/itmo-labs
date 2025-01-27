@@ -1,0 +1,72 @@
+{
+    "movieUniverse": {
+        "name": "Ultimate Cinematic Universe",
+        "movies": [
+            {
+                "title": "The First Hero",
+                "releaseYear": 2018,
+                "duration": 120,
+                "cast": [
+                    {
+                        "name": "John Doe",
+                        "character": "Hero",
+                        "awards": [
+                            {
+                                "name": "Best Actor",
+                                "year": 2019
+                            }
+                        ],
+                        "boxOffice": {
+                            "domestic": 500000000,
+                            "international": 800000000
+                        }
+                    },
+                    {
+                        "name": "Jane Smith",
+                        "character": "Villain",
+                        "awards": [],
+                        "boxOffice": {
+                            "domestic": 500000000,
+                            "international": 800000000
+                        }
+                    }
+                ],
+                "ratings": {
+                    "critics": 85,
+                    "audience": 90
+                }
+            },
+            {
+                "title": "The Return of the Hero",
+                "releaseYear": 2020,
+                "duration": 150,
+                "cast": [
+                    {
+                        "name": "John Doe",
+                        "character": "Hero",
+                        "awards": [
+                            {
+                                "name": "Best Actor",
+                                "year": 2021
+                            }
+                        ],
+                        "boxOffice": {
+                            "domestic": 700000000,
+                            "international": 1000000000
+                        }
+                    }
+                ],
+                "ratings": {
+                    "critics": 90,
+                    "audience": 95
+                }
+            }
+        ],
+        "franchises": [
+            {
+                "name": "The Hero Saga",
+                "movies": ["The First Hero", "The Return of the Hero"]
+            }
+        ]
+    }
+}

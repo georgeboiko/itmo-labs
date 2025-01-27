@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "id": 11111,
+            "name": "Product-A",
+            "attributes": {
+                "color": "black",
+                "size": "small",
+                "quantity": 50
+            },
+            "tags": ["electronics", "sale"]
+        },
+        {
+            "id": 22222,
+            "name": "Product-B",
+            "attributes": {
+                "color": "white",
+                "size": "large",
+                "quantity": 20
+            },
+            "tags": ["furniture", "new"]
+        },
+        {
+            "id": 33333,
+            "name": "Product-C",
+            "attributes": {
+                "color": "red",
+                "size": "medium",
+                "quantity": 75
+            },
+            "tags": ["clothing"]
+        }
+    ]
+}

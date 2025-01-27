@@ -1,0 +1,101 @@
+{
+    "globalEconomy": {
+        "countries": [
+            {
+                "name": "Country A",
+                "gdp": 2000000000,
+                "inflationRate": 2.5,
+                "currencies": [
+                    {
+                        "name": "Currency A",
+                        "exchangeRate": {
+                            "USD": 0.8,
+                            "EUR": 0.7
+                        }
+                    }
+                ],
+                "sectors": {
+                    "agriculture": {
+                        "output": 300000,
+                        "products": [
+                            {
+                                "name": "Wheat",
+                                "exportVolume": 10000
+                            },
+                            {
+                                "name": "Corn",
+                                "exportVolume": 15000
+                            }
+                        ]
+                    },
+                    "industry": {
+                        "output": 800000,
+                        "products": [
+                            {
+                                "name": "Steel",
+                                "exportVolume": 50000
+                            },
+                            {
+                                "name": "Cars",
+                                "exportVolume": 20000
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "name": "Country B",
+                "gdp": 1500000000,
+                "inflationRate": 3.0,
+                "currencies": [
+                    {
+                        "name": "Currency B",
+                        "exchangeRate": {
+                            "USD": 1.2,
+                            "EUR": 1.0
+                        }
+                    }
+                ],
+                "sectors": {
+                    "agriculture": {
+                        "output": 200000,
+                        "products": [
+                            {
+                                "name": "Rice",
+                                "exportVolume": 8000
+                            },
+                            {
+                                "name": "Soybeans",
+                                "exportVolume": 6000
+                            }
+                        ]
+                    },
+                    "industry": {
+                        "output": 500000,
+                        "products": [
+                            {
+                                "name": "Textiles",
+                                "exportVolume": 30000
+                            },
+                            {
+                                "name": "Electronics",
+                                "exportVolume": 15000
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "globalMarket": {
+            "tradeAgreements": [
+                {
+                    "partners": ["Country A", "Country B"],
+                    "details": {
+                        "tariffReduction": "20%",
+                        "duration": "5 years"
+                    }
+                }
+            ]
+        }
+    }
+}

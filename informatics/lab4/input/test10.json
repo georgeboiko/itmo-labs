@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "id": 44444,
+            "name": "Gadget-X",
+            "attributes": {
+                "color": "blue",
+                "size": "medium",
+                "quantity": 10
+            },
+            "tags": ["gadgets", "tech"]
+        },
+        {
+            "id": 55555,
+            "name": "Gadget-Y",
+            "attributes": {
+                "color": "green",
+                "size": "large",
+                "quantity": 30
+            },
+            "tags": ["gadgets", "popular"]
+        },
+        {
+            "id": 66666,
+            "name": "Gadget-Z",
+            "attributes": {
+                "color": "orange",
+                "size": "small",
+                "quantity": 5
+            },
+            "tags": ["gadgets", "sale"]
+        }
+    ]
+}

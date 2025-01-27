@@ -1,0 +1,83 @@
+{
+    "organization": {
+      "name": "Global Enterprises",
+      "established": 1998,
+      "branches": [
+        {
+          "location": "New York",
+          "departments": [
+            {
+              "name": "Sales",
+              "employees": [
+                { "id": 1, "name": "John", "performance": [88, 92, 95], "projects": [{ "name": "Expansion", "budget": 50000 }] },
+                { "id": 2, "name": "Jane", "performance": [85, 89, 93], "projects": [] }
+              ]
+            },
+            {
+              "name": "Development",
+              "employees": [
+                { "id": 3, "name": "Alice", "performance": [90, 91, 94], "projects": [{ "name": "App Launch", "budget": 75000 }, { "name": "Web Revamp", "budget": 30000 }] },
+                { "id": 4, "name": "Bob", "performance": [85, 87, 90], "projects": [] }
+              ]
+            }
+          ]
+        },
+        {
+          "location": "San Francisco",
+          "departments": [
+            {
+              "name": "Marketing",
+              "employees": [
+                { "id": 5, "name": "Charlie", "performance": [95, 96, 97], "projects": [{ "name": "Ad Campaign", "budget": 100000 }] },
+                { "id": 6, "name": "Dave", "performance": [89, 90, 92], "projects": [] }
+              ]
+            },
+            {
+              "name": "HR",
+              "employees": [
+                { "id": 7, "name": "Eve", "performance": [92, 93, 94], "projects": [         ] },
+                { "id": 8, "name": "Mallory", "performance": [88, 89, 90], "projects": [] }
+              ]
+            }
+          ]
+        }
+      ],
+      "financials": {
+        "totalRevenue": 2000000,
+        "expenses": {
+          "salaries": 800000,
+          "marketing": 150000,
+          "development": 300000
+        },
+        "profits": [
+          {
+            "year": 2021,
+            "amount": 500000
+          },
+          {
+            "year": 2022,
+            "amount": 600000
+          },
+          {
+            "year": 2023,
+            "amount": 700000
+          }
+        ]
+      },
+      "partners": [
+        {
+          "name": "TechCorp",
+          "collaborations": [
+            { "project": "AI Development", "duration": "2 years" },
+            { "project": "Cloud Solutions", "duration": "1 year" }
+          ]
+        },
+        {
+          "name": "FinServices",
+          "collaborations": [
+            { "project": "Financial Consulting", "duration": "3 years" }
+          ]
+        }
+      ]
+    }
+  }

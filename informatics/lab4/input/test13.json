@@ -1,0 +1,51 @@
+{
+    "library": {
+        "name": "City Library",
+        "location": {
+            "address": "456 Oak St",
+        "city": "Springfield",
+        "postalCode": "62701",
+        "country": "Utopia"
+        },
+        "collections": [
+            {
+            "genre": "Fiction",
+            "books": [
+                {
+                "title": "The Great Adventure",
+                "author": "John Doe",
+                "publishedYear": 2020,
+                "ratings": ["5 stars", "4 stars"]
+            }
+            ],
+            "mostPopularBook": "The Great Adventure"
+        },
+            {
+            "genre": "Non-Fiction",
+            "books": [
+                {
+            "title": "Understanding Science",
+            "author": "Jane Smith",
+            "publishedYear": 2019,
+            "ratings": ["5 stars", "4 stars", "3 stars"]
+            }
+            ],
+            "mostPopularBook": "Understanding Science"
+        }
+        ],
+        "staff": [
+        {
+            "id": 201,
+            "name": "Sarah",
+            "position": "Librarian",
+            "yearsOfService": 5
+        },
+        {
+            "id": 202,
+            "name": "Tom",
+            "position": "Assistant Librarian",
+            "yearsOfService": 3
+        }
+    ]
+}
+}

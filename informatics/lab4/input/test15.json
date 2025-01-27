@@ -1,0 +1,26 @@
+{
+    "departments": [
+        {
+          "name": "Clothing",
+          "products": [
+            {
+              "id": 303,
+              "name": "Sneakers",
+              "price": 59.99,
+              "quantity": 50,
+              "ratings": [4.3, 4.2, 4.4]
+            }
+          ]
+        }
+      ],
+      "employees": [
+        {
+          "id": 1,
+          "name": "Alice",
+          "age": 30,
+          "department": "Groceries",
+          "salary": 32000,
+          "performanceScores": [88, 92, 85]
+        }
+      ]
+}

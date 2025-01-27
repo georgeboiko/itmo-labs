@@ -1,0 +1,11 @@
+{
+    "company": "Tech Corp",
+    "employees": [
+        "John Doe",
+        "Jane Smith"
+    ],
+    "location": {
+        "office": "HQ",
+        "city": "Metropolis"
+    }
+}

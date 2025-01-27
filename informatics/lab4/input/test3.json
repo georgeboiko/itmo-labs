@@ -1,0 +1,20 @@
+{
+    "projects": [
+        {
+            "name": "Project A",
+            "members": ["Alice", "Bob"],
+            "details": {
+                "duration": "6 months",
+                "status": "ongoing"
+            }
+        },
+        {
+            "name": "Project B",
+            "members": ["Charlie", "David"],
+            "details": {
+                "duration": "3 months",
+                "status": "completed"
+            }
+        }
+    ]
+}

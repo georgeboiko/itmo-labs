@@ -1,0 +1,54 @@
+{
+    "items": [
+        {
+            "id": 12345,
+            "name": "Item-6789",
+            "attributes": {
+                "color": "red",
+                "size": "medium",
+                "quantity": 45
+            },
+            "tags": ["tag-0", "tag-1"]
+        },
+        {
+            "id": 54321,
+            "name": "Item-9876",
+            "attributes": {
+                "color": "blue",
+                "size": "large",
+                "quantity": 12
+            },
+            "tags": ["tag-0", "tag-3", "tag-4"]
+        },
+        {
+            "id": 67890,
+            "name": "Item-1234",
+            "attributes": {
+                "color": "green",
+                "size": "small",
+                "quantity": 78
+            },
+            "tags": ["tag-1", "tag-2"]
+        },
+        {
+            "id": 13579,
+            "name": "Item-2468",
+            "attributes": {
+                "color": "yellow",
+                "size": "medium",
+                "quantity": 33
+            },
+            "tags": ["tag-2", "tag-3"]
+        },
+        {
+            "id": 24680,
+            "name": "Item-1357",
+            "attributes": {
+                "color": "red",
+                "size": "large",
+                "quantity": 21
+            },
+            "tags": ["tag-0", "tag-4"]
+        }
+    ]
+}

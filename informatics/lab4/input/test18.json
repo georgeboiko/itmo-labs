@@ -1,0 +1,81 @@
+{
+    "university": {
+        "name": "Global University",
+        "established": 1960,
+        "faculties": [
+            {
+                "name": "Engineering",
+                "departments": [
+                    {
+                        "name": "Computer Science",
+                        "courses": [
+                            {
+                                "code": "CS101",
+                                "title": "Introduction to Programming",
+                                "credits": 3,
+                                "students": [
+                                    {
+                                        "id": 1,
+                                        "name": "Alice",
+                                        "grades": [88, 92, 95],
+                                        "projects": [
+                                            {
+                                                "title": "Game Development",
+                                                "score": 90
+                                            },
+                                            {
+                                                "title": "Data Structures",
+                                                "score": 85
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": 2,
+                                        "name": "Bob",
+                                        "grades": [75, 80, 78],
+                                        "projects": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Arts",
+                "departments": [
+                    {
+                        "name": "History",
+                        "courses": [
+                            {
+                                "code": "HIST101",
+                                "title": "World History",
+                                "credits": 3,
+                                "students": [
+                                    {
+                                        "id": 3,
+                                        "name": "Charlie",
+                                        "grades": [95, 93, 96],
+                                        "projects": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "events": [
+            {
+                "date": "2023-05-15",
+                "type": "Graduation",
+                "participants": [1, 2, 3]
+            },
+            {
+                "date": "2023-10-01",
+                "type": "Open Day",
+                "participants": [1, 3]
+            }
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "store": {
+        "name": "MegaStore",
+        "location": {
+            "address": "123 Main St",
+            "city": "Metropolis",
+            "country": "Wonderland"
+        },
+        "departments": [
+            {
+                "name": "Electronics",
+                "products": [
+                    {
+                    "id": 1,
+                "name": "Smartphone",
+                "features": {
+                "screenSize": "6.1 inches",
+                "batteryCapacity": "4000mAh",
+                "warranty": "2 years"
+                },
+                "tags": ["tech", "mobile", "gadgets"]
+                }
+            ]
+        },
+            {
+            "name": "Clothing",
+            "products": [
+                {
+                "id": 2,
+                "name": "T-Shirt",
+                "features": {
+                "material": "cotton",
+                "sizeRange": ["S", "M", "L", "XL"],
+                "colorOptions": ["red", "blue", "black"]
+                },
+            "tags": ["fashion", "wear"]
+            }
+            ]
+        }
+    ]
+    },
+    "employees": [
+        {
+            "id": 101,
+            "name": "Alice",
+            "position": "Manager"
+        },
+        {
+            "id": 102,
+            "name": "Bob",
+            "position": "Sales Associate"
+        }
+    ]
+}
