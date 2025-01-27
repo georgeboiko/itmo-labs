@@ -1,0 +1,77 @@
+Cosmog Сигма из команды полосатых вступает в бой!
+Nuzleaf Билли из команды желтых вступает в бой!
+Nuzleaf Билли attacks with Extrasensory. 
+Cosmog Сигма теряет 3 здоровья.
+
+Cosmog Сигма attacks with Facade. 
+Nuzleaf Билли теряет 1 здоровья.
+Nuzleaf Билли не замечает воздействие типа PSYCHIC
+
+Nuzleaf Билли attacks with Facade. 
+Cosmog Сигма теряет 3 здоровья.
+
+Cosmog Сигма attacks with Swagger. 
+
+Nuzleaf Билли attacks with Double Team. 
+Nuzleaf Билли увеличивает уклоняемость.
+
+Cosmog Сигма attacks with Facade. 
+Nuzleaf Билли теряет 1 здоровья.
+Nuzleaf Билли не замечает воздействие типа PSYCHIC
+
+Nuzleaf Билли attacks with Extrasensory. 
+Cosmog Сигма теряет 2 здоровья.
+
+Cosmog Сигма attacks with Water Pulse. 
+Nuzleaf Билли теряет 2 здоровья.
+
+Nuzleaf Билли растерянно попадает по себе. 
+Nuzleaf Билли теряет 4 здоровья.
+
+Cosmog Сигма attacks with Moonblast. 
+Nuzleaf Билли теряет 14 здоровья.
+Nuzleaf Билли уменьшает специальную атаку.
+Nuzleaf Билли теряет сознание.
+Seedot Нормис из команды желтых вступает в бой!
+Cosmog Сигма attacks with Water Pulse. 
+Seedot Нормис теряет 3 здоровья.
+
+Seedot Нормис attacks with Double Team. 
+Seedot Нормис увеличивает уклоняемость.
+
+Cosmog Сигма attacks with Moonblast. 
+Seedot Нормис теряет 6 здоровья.
+Seedot Нормис уменьшает специальную атаку.
+
+Seedot Нормис растерянно попадает по себе. 
+Seedot Нормис теряет 3 здоровья.
+Seedot Нормис теряет сознание.
+Shiftry Арни из команды желтых вступает в бой!
+Shiftry Арни attacks with Facade. 
+Cosmog Сигма теряет 3 здоровья.
+
+Cosmog Сигма attacks with Facade. 
+Shiftry Арни теряет 1 здоровья.
+Shiftry Арни не замечает воздействие типа PSYCHIC
+
+Shiftry Арни attacks with Extrasensory. 
+Cosmog Сигма теряет 2 здоровья.
+Cosmog Сигма теряет сознание.
+Kabuto Бизнесмен из команды полосатых вступает в бой!
+Shiftry Арни attacks with Extrasensory. 
+Kabuto Бизнесмен теряет 6 здоровья.
+
+Kabuto Бизнесмен attacks with Aerial Ace. 
+Shiftry Арни теряет 9 здоровья.
+
+Kabuto Бизнесмен attacks with Aqua Jet. 
+Shiftry Арни теряет 2 здоровья.
+
+Shiftry Арни attacks with Double Team. 
+Shiftry Арни увеличивает уклоняемость.
+
+Kabuto Бизнесмен attacks with Aqua Jet. 
+Shiftry Арни теряет 2 здоровья.
+Shiftry Арни теряет сознание.
+В команде желтых не осталось покемонов.
+Команда полосатых побеждает в этом бою!
