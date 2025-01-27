@@ -1,0 +1,7 @@
+{
+    "boolean": true,
+    "null_value": null,
+    "integer": 42,
+    "float": 3.14,
+    "string": "Hello, World!"
+}
